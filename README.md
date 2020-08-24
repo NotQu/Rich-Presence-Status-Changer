@@ -12,6 +12,11 @@ If the presence you made is for valorant, name it this.
 
 0.*valorant*.json
 
+## Important
+
+After you run the **.exe** and select your status you will still need to **reload discord**.
+This can be done by **pressin ctrl + r** inside the discord app.
+
 ### Currently supported games
 
 Irl
