@@ -1,5 +1,6 @@
 # Rich presence-Status-Changer
-This is not standalone and is just an addon to AutoStartRichPresence
+**Disclaimer**
+__This is not standalone and is just an addon to AutoStartRichPresence__
 
 # Tutorial
 
