@@ -8,7 +8,7 @@ This is not standalone and is just an addon to AutoStartRichPresence
 3. Go into your **plugins folder** and **copy** your **AutoStartRichPresence.plugin.js** file and **renamed** it to 0.*name of game*.json.
 
 ## example
-If the presence you made is for valorant name it this
+If the presence you made is for valorant, name it this.
 
 0.*valorant*.json
 
