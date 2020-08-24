@@ -6,9 +6,9 @@ This is not standalone and is just an addon to AutoStartRichPresence
 
 0.*name of game*.json
 
-**example**
+# example
 
-__0.valorant.json__
+0.*valorant*.json
 
 ### Currently supported games
 
