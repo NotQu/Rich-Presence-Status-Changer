@@ -1,7 +1,7 @@
 # Rich presence-Status-Changer
 This is not standalone and is just an addon to AutoStartRichPresence
 
-###Tutorial
+### Tutorial
 
 1. Copy the **.exe** file to your **plugins folder** and make a shortcut to run from somewhere else. For example your desktop.
 2. In discord, edit your rich presence to look like you want it to when you are playing something. For example valorant.
