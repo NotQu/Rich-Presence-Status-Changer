@@ -19,8 +19,8 @@ This can be done by **pressin ctrl + r** inside the discord app.
 
 ### Currently supported games
 
-Irl
-Osu
-Valorant
-Terraria
-Skyrim
+- Irl
+- Osu
+- Valorant
+- Terraria
+- Skyrim
