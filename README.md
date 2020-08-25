@@ -1,4 +1,4 @@
-# Rich presence-Status-Changer
+# Rich-presence-Status-Changer
 #### Disclaimer
 This is not standalone and is just an addon to AutoStartRichPresence
 
